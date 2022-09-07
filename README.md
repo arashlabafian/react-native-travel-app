@@ -1,5 +1,9 @@
 # Travel App
+
 <p>An app that recommmends popular tourist destinations to users based on specified categories.</p>
+
+<h2>Update</h2>
+Disabled both email provider and Google sign-in provider from Firebase, due to the amount of unwanted test emails in my console. You'll have to manually set up Firebase in your project to be able to carry out user authentication. Thanks :)
 
 <h2>Technologies Used</h2>
 <li>React Native</li>
@@ -12,8 +16,8 @@
 
 <h2>Setup</h2>
 <h4>Clone the repository</h4>
-<p>Via HTTPS: git clone https://github.com/nklmantey/react-native-travel-app.git</p>
-<p>Via SSH: git clone git@github.com:nklmantey/react-native-travel-app.git</p>
+<p>Via HTTPS: git clone https://github.com/arashlabafian/react-native-travel-app.git</p>
+<p>Via SSH: git clone git@github.com:arashlabafian/react-native-travel-app.git</p>
 
 <h4>Steps</h4>
 <li>iOS &amp; Android package installation: npm install / yarn add</li>
@@ -28,6 +32,7 @@
 <p>Wasn't built responsively and so may appear wonky on devices with differing screen dimensions.</p>
 
 ## Screenshots
+
 <img align="left" alt="1welcome" src="https://drive.google.com/uc?export=view&id=1v_koTM3LPumjL5F3MKcQ-LWimHjtwcyS" width="300"/>
 <img align="left" alt="2signup" src="https://drive.google.com/uc?export=view&id=1vZjxnSyaIa19MvotRHyMrVMenC6AelxO" width="300"/>
 <img align="left" alt="3login" src="https://drive.google.com/uc?export=view&id=1vY4hg8KuVU2MSwdBIRXALPiyBroq2vVv" width="300"/>
